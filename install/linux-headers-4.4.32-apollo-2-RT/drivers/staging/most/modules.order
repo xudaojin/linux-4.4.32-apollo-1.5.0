@@ -1,0 +1,8 @@
+kernel/drivers/staging/most/mostcore/mostcore.ko
+kernel/drivers/staging/most/aim-cdev/aim_cdev.ko
+kernel/drivers/staging/most/aim-network/aim_network.ko
+kernel/drivers/staging/most/aim-sound/aim_sound.ko
+kernel/drivers/staging/most/aim-v4l2/aim_v4l2.ko
+kernel/drivers/staging/most/hdm-dim2/hdm_dim2.ko
+kernel/drivers/staging/most/hdm-i2c/hdm_i2c.ko
+kernel/drivers/staging/most/hdm-usb/hdm_usb.ko

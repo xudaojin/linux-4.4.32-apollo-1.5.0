@@ -1,0 +1,3 @@
+kernel/drivers/video/fbdev/aty/atyfb.ko
+kernel/drivers/video/fbdev/aty/aty128fb.ko
+kernel/drivers/video/fbdev/aty/radeonfb.ko

@@ -1,0 +1,2 @@
+kernel/drivers/staging/vme/devices/vme_user.ko
+kernel/drivers/staging/vme/devices/vme_pio2.ko

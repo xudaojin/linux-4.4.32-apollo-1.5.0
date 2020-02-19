@@ -1,0 +1,4 @@
+kernel/drivers/staging/unisys/visorbus/visorbus.ko
+kernel/drivers/staging/unisys/visornic/visornic.ko
+kernel/drivers/staging/unisys/visorinput/visorinput.ko
+kernel/drivers/staging/unisys/visorhba/visorhba.ko

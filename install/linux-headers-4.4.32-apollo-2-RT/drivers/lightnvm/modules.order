@@ -1,0 +1,2 @@
+kernel/drivers/lightnvm/gennvm.ko
+kernel/drivers/lightnvm/rrpc.ko

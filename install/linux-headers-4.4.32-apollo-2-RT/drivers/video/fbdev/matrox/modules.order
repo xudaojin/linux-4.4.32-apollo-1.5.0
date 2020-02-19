@@ -1,0 +1,11 @@
+kernel/drivers/video/fbdev/matrox/matroxfb_base.ko
+kernel/drivers/video/fbdev/matrox/matroxfb_accel.ko
+kernel/drivers/video/fbdev/matrox/matroxfb_DAC1064.ko
+kernel/drivers/video/fbdev/matrox/matroxfb_Ti3026.ko
+kernel/drivers/video/fbdev/matrox/matroxfb_misc.ko
+kernel/drivers/video/fbdev/matrox/g450_pll.ko
+kernel/drivers/video/fbdev/matrox/matroxfb_g450.ko
+kernel/drivers/video/fbdev/matrox/matroxfb_crtc2.ko
+kernel/drivers/video/fbdev/matrox/i2c-matroxfb.ko
+kernel/drivers/video/fbdev/matrox/matroxfb_maven.ko
+kernel/drivers/video/fbdev/matrox/matroxfb_crtc2.ko

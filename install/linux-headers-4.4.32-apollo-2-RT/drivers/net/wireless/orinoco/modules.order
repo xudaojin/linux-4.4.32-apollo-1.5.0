@@ -1,0 +1,7 @@
+kernel/drivers/net/wireless/orinoco/orinoco.ko
+kernel/drivers/net/wireless/orinoco/orinoco_cs.ko
+kernel/drivers/net/wireless/orinoco/orinoco_plx.ko
+kernel/drivers/net/wireless/orinoco/orinoco_tmd.ko
+kernel/drivers/net/wireless/orinoco/orinoco_nortel.ko
+kernel/drivers/net/wireless/orinoco/spectrum_cs.ko
+kernel/drivers/net/wireless/orinoco/orinoco_usb.ko

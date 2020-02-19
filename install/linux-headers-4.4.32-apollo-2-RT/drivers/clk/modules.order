@@ -1,0 +1,7 @@
+kernel/drivers/clk/clk-cdce706.ko
+kernel/drivers/clk/clk-palmas.ko
+kernel/drivers/clk/clk-s2mps11.ko
+kernel/drivers/clk/clk-si5351.ko
+kernel/drivers/clk/clk-twl6040.ko
+kernel/drivers/clk/clk-wm831x.ko
+kernel/drivers/clk/clk-pwm.ko

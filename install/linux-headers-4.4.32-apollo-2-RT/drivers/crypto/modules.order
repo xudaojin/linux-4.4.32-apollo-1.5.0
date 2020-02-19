@@ -1,0 +1,7 @@
+kernel/drivers/crypto/ccp/ccp.ko
+kernel/drivers/crypto/ccp/ccp-crypto.ko
+kernel/drivers/crypto/padlock-aes.ko
+kernel/drivers/crypto/padlock-sha.ko
+kernel/drivers/crypto/qat/qat_common/intel_qat.ko
+kernel/drivers/crypto/qat/qat_dh895xcc/qat_dh895xcc.ko
+kernel/drivers/crypto/qat/qat_dh895xccvf/qat_dh895xccvf.ko
